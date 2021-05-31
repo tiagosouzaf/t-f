@@ -1,2 +1,2 @@
 # t-f
-Soluções tecnoligicas
+Soluções tecnológicas
