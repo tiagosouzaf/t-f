@@ -4,6 +4,6 @@
 
 
 # Configurar
-- Rodar o script Site.ps1 e Api.ps1
+- Rodar o script Api.ps1 e Site.ps1.
 
 Após rodar o script, o resultado com os testes serão impressos no powershell e irá subir a API na porta (5001) e o Site na porta (4026).
