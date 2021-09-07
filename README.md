@@ -1,2 +1,2 @@
-# t-f
-Soluções tecnológicas
+# Dependencias
+- Node 14.17 ou >
